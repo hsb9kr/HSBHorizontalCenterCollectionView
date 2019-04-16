@@ -1,0 +1,22 @@
+{
+  "name": "HSBHorizontalCenterCollectionView",
+  "version": "0.1.0",
+  "summary": "A short description of HSBHorizontalCenterCollectionView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Red/HSBHorizontalCenterCollectionView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Red": "hsb9kr@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Red/HSBHorizontalCenterCollectionView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HSBHorizontalCenterCollectionView/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - HSBHorizontalCenterCollectionView (0.1.0)
+
+DEPENDENCIES:
+  - HSBHorizontalCenterCollectionView (from `../`)
+
+EXTERNAL SOURCES:
+  HSBHorizontalCenterCollectionView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HSBHorizontalCenterCollectionView: 20a6bfa90edbe8d24656dc612e2034ade33effee
+
+PODFILE CHECKSUM: 0696182326e56d948bdb229ea15b7bc914d84765
+
+COCOAPODS: 1.6.1

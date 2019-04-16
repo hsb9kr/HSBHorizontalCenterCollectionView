@@ -1,0 +1,6 @@
+framework module HSBHorizontalCenterCollectionView {
+  umbrella header "HSBHorizontalCenterCollectionView-umbrella.h"
+
+  export *
+  module * { export * }
+}
