@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HSBHorizontalCenterCollectionView_Example' do
+  pod 'HSBHorizontalCenterCollectionView', :path => '../'
+
+  target 'HSBHorizontalCenterCollectionView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

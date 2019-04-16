@@ -1,0 +1,29 @@
+# HSBHorizontalCenterCollectionView
+
+[![CI Status](https://img.shields.io/travis/Red/HSBHorizontalCenterCollectionView.svg?style=flat)](https://travis-ci.org/Red/HSBHorizontalCenterCollectionView)
+[![Version](https://img.shields.io/cocoapods/v/HSBHorizontalCenterCollectionView.svg?style=flat)](https://cocoapods.org/pods/HSBHorizontalCenterCollectionView)
+[![License](https://img.shields.io/cocoapods/l/HSBHorizontalCenterCollectionView.svg?style=flat)](https://cocoapods.org/pods/HSBHorizontalCenterCollectionView)
+[![Platform](https://img.shields.io/cocoapods/p/HSBHorizontalCenterCollectionView.svg?style=flat)](https://cocoapods.org/pods/HSBHorizontalCenterCollectionView)
+
+## Example
+
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+## Requirements
+
+## Installation
+
+HSBHorizontalCenterCollectionView is available through [CocoaPods](https://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod 'HSBHorizontalCenterCollectionView'
+```
+
+## Author
+
+Red, hsb9kr@gmail.com
+
+## License
+
+HSBHorizontalCenterCollectionView is available under the MIT license. See the LICENSE file for more info.
